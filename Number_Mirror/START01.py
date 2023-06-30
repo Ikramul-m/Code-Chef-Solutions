@@ -3,4 +3,4 @@ n = input()
 
 number = int(n)
 
-print(number)
+print(number) 
